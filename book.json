@@ -6,7 +6,7 @@
         {
           "name": "CET-4",
           "desc": "四级词汇",
-          "hash": "cc10b6978ec16c76b40b3592c275e9e3",
+          "hash": "0bfa3cdbe879bfd44ad712652dbda54b",
           "urls": [
             "https://github.com/i9ver4get/store/releases/download/v1.0.0/CET-4.mybk",
             "https://gitee.com/i9ver4get/store/releases/download/v0.1.0/CET-4.mybk"
@@ -20,7 +20,7 @@
         {
           "name": "Flags",
           "desc": "国旗",
-          "hash": "8111a034ee1fa969d72303f1d2230a5a",
+          "hash": "5ff106ae14b978425ae32db8689a7e69",
           "urls": [
             "https://github.com/i9ver4get/store/releases/download/v1.0.0/Flags.mybk",
             "https://gitee.com/i9ver4get/store/releases/download/v0.1.0/Flags.mybk"
