@@ -1,10 +1,10 @@
 {
-  "version": "1.1.4",
-  "time": "2024-01-13T00:59:41.992Z",
-  "notes": "1.fix some bugs\r\n2.add store copyright tip",
-  "hash": "96803a4adbadf3a861ced84b2b271120",
+  "version": "1.1.5",
+  "time": "2024-01-13T01:41:58.622Z",
+  "notes": "fix upgrade error",
+  "hash": "c83a10a407e9cee14991baa66752d21c",
   "urls": [
-    "https://github.com/i9ver4get/store/releases/download/v2.0.0/app-v1.1.4-7-standalone.apk",
-    "https://gitee.com/i9ver4get/store/releases/download/v1.0.0/app-v1.1.4-7-standalone.apk"
+    "https://github.com/i9ver4get/store/releases/download/v2.0.0/app-v1.1.5-8-standalone.apk",
+    "https://gitee.com/i9ver4get/store/releases/download/v1.0.0/app-v1.1.5-8-standalone.apk"
   ]
 }
