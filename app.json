@@ -1,10 +1,10 @@
 {
-  "version": "1.1.9",
-  "time": "2024-01-24T12:19:14.043Z",
-  "notes": "change website url",
-  "hash": "2111c178cee0654d25f90e9784ee84d7",
+  "version": "1.1.10",
+  "time": "2024-02-12T02:11:01.261Z",
+  "notes": "1.fix theme bug\r\n2.memory mode tip",
+  "hash": "ac96f39ac6c3afcbe75ec43e7d8b1a95",
   "urls": [
-    "https://github.com/i9ver4get/store/releases/download/v2.0.0/app-v1.1.9-12-standalone.apk",
-    "https://gitee.com/i9ver4get/store/releases/download/v1.0.0/app-v1.1.9-12-standalone.apk"
+    "https://github.com/i9ver4get/store/releases/download/v2.0.0/app-v1.1.10-13-standalone.apk",
+    "https://gitee.com/i9ver4get/store/releases/download/v1.0.0/app-v1.1.10-13-standalone.apk"
   ]
 }
